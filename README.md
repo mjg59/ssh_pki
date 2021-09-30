@@ -6,7 +6,7 @@ Introduction
 
 SSH certificates are limited in their usefulness - a certificate can only be
 signed with a single CA key, so no chains of trust can be established, and
-there's no way to tie them into the global PKI. But what if?
+there's no way to tie them into the global PKI. But what if 🥺?
 
 Should I use this?
 ------------------
